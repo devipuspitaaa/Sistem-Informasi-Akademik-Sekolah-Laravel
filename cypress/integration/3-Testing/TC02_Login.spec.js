@@ -9,8 +9,7 @@ describe("Refresh Database", ()=>{
     });
 
     it('database succesfully refresh', () => {
-        // php artisan migrate:fresh has been
-        // called at this point
+        
     });
 
 
